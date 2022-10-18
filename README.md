@@ -1,7 +1,6 @@
 # Trabalho de Conclusão de Curso
 
-## SMART METER: SISTEMA NÃO INVASIVO PARA MONITORAMENTO DE
-CONSUMO ENERGÉTICO
+## SMART METER: SISTEMA NÃO INVASIVO PARA MONITORAMENTO DE CONSUMO ENERGÉTICO
 
 ### Resumo
 As cidades inteligentes possuem como um de seus fundamentos a implementação de uma rede
